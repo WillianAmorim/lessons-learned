@@ -6,3 +6,28 @@ body {
     position: fixed;
     top: 0;
 }
+
+article {
+    position: static;
+}
+
+#meu_aprendizado {
+    position: relative;
+    margin-right: 1200px;
+    left: 70px;
+   
+}
+
+#licoes_aprendidas {
+    position: relative;
+    left: 300px;
+    bottom: 170px;
+    
+} 
+
+#licoes_a_aprender {
+    position: relative;
+    left: 800px;
+    bottom: 430px;
+
+}
