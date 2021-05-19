@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(253, 251, 251);git
+    background-color: rgb(155, 101, 101);git
 }
 
 #cabecalho {
@@ -47,4 +47,8 @@ h1 {
 #introdução {
     position: relative;
     top: 25px;
+}
+
+table {
+    border: 1px solid black;
 }
