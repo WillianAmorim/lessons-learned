@@ -5,3 +5,12 @@ body {
 header {
     top: 0%;
 }
+
+article {
+    bottom: 200px;    
+}
+
+
+#cabecalho {
+    top: 0px;
+}
